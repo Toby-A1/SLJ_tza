@@ -1,1 +1,1 @@
-instance_destroy(oRulesPopup);
+instance_destroy();
