@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"oTitleMenu",
+  "%Name":"oXbutton",
   "eventList":[],
   "managed":true,
-  "name":"oTitleMenu",
+  "name":"oXbutton",
   "overriddenProperties":[],
   "parent":{
     "name":"Menu System",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sMenu",
-    "path":"sprites/sMenu/sMenu.yy",
+    "name":"sXbutton",
+    "path":"sprites/sXbutton/sXbutton.yy",
   },
   "spriteMaskId":null,
   "visible":true,
