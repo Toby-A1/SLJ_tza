@@ -1,13 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"oXbutton",
-  "eventList":[],
+  "%Name":"oPauseMenu",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"oXbutton",
+  "name":"oPauseMenu",
   "overriddenProperties":[],
   "parent":{
-    "name":"Menu System",
-    "path":"folders/Menu System.yy",
+    "name":"SecretLevelJamTZA",
+    "path":"SecretLevelJamTZA.yyp",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sXbutton",
-    "path":"sprites/sXbutton/sXbutton.yy",
+    "name":"sMenu",
+    "path":"sprites/sMenu/sMenu.yy",
   },
   "spriteMaskId":null,
   "visible":true,
